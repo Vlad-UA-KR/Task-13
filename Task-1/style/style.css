@@ -40,7 +40,7 @@ a{
     padding: 0px 15px;
 }
 
-/**----------header-fresh--------------**/
+/**----------header-navigation--------------**/
 
 .header{
     width: 100%;
@@ -142,8 +142,6 @@ a{
     padding-top: 160px;
     padding-bottom: 50px;
 }
-
-/**---------pseudo-fresh---------------**/
 
 .main-fresh__button:hover,
 .main-fresh__button:focus{
